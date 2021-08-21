@@ -1,0 +1,39 @@
+header {
+  height: 140px;
+	background-color:darkviolet;
+	border: salmon;
+}
+
+header h2 {
+ text-align: center;
+ font-family: cursive
+}
+
+body {
+  background-color: goldenrod;
+}
+
+.logo {
+  font-family: fantasy;
+  font-size: 55px;
+  color: rgb(80, 8, 64);
+  text-align: center;
+  padding: 20px 0 0 0;
+}
+
+img { 
+  width: 100%;	
+  border-radius: 55px;
+  border: 1px ;
+} 
+
+h1, h2, h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+	color: #403933;
+  text-align: center;
+  font-weight: 500;
+}
+
+footer {
+  background-color: darkgoldenrod
+}
